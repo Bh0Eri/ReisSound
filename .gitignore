@@ -45,3 +45,8 @@ dist-ssr
 .env
 .env.*
 !.env.example
+
+# Environment variables (never commit)
+.env
+.env.*
+!.env.example
